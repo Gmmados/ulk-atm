@@ -14,14 +14,6 @@ A small ATM program made with basic Java. It runs in the terminal and is made fo
 
 Each account starts with **$1000**. The program keeps account data while it is running. When you close the program, the data returns to its starting values.
 
-## Run the program
-
-Open a terminal in the folder that contains ATM.java, then type:
-
-    javac ATM.java
-    java ATM
-
-You need the Java JDK installed so that the javac and java commands work.
 
 ## Sample accounts
 
